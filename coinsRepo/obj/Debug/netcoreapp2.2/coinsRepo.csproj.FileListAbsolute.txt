@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\bin\Debug\netcoreapp2.2\coinsRepo.deps.json
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\bin\Debug\netcoreapp2.2\coinsRepo.runtimeconfig.json
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\bin\Debug\netcoreapp2.2\coinsRepo.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\bin\Debug\netcoreapp2.2\coinsRepo.dll
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.RazorAssemblyInfo.cache
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.RazorAssemblyInfo.cs
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.AssemblyInfo.cs
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.RazorTargetAssemblyInfo.cache
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\bin\Debug\netcoreapp2.2\coinsRepo.pdb
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.dll
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.pdb
+C:\Users\sasha\source\repos\coinsRepo\coinsRepo\obj\Debug\netcoreapp2.2\coinsRepo.csprojAssemblyReference.cache
